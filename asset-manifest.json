@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Todo-App-with-Redux/static/css/main.4b27e4ff.chunk.css",
-    "main.js": "/Todo-App-with-Redux/static/js/main.d894a168.chunk.js",
-    "main.js.map": "/Todo-App-with-Redux/static/js/main.d894a168.chunk.js.map",
+    "main.css": "/Todo-App-with-Redux/static/css/main.aa97e7ff.chunk.css",
+    "main.js": "/Todo-App-with-Redux/static/js/main.d21021f0.chunk.js",
+    "main.js.map": "/Todo-App-with-Redux/static/js/main.d21021f0.chunk.js.map",
     "runtime-main.js": "/Todo-App-with-Redux/static/js/runtime-main.5a2c89cf.js",
     "runtime-main.js.map": "/Todo-App-with-Redux/static/js/runtime-main.5a2c89cf.js.map",
     "static/js/2.92379be6.chunk.js": "/Todo-App-with-Redux/static/js/2.92379be6.chunk.js",
     "static/js/2.92379be6.chunk.js.map": "/Todo-App-with-Redux/static/js/2.92379be6.chunk.js.map",
     "index.html": "/Todo-App-with-Redux/index.html",
-    "static/css/main.4b27e4ff.chunk.css.map": "/Todo-App-with-Redux/static/css/main.4b27e4ff.chunk.css.map",
+    "static/css/main.aa97e7ff.chunk.css.map": "/Todo-App-with-Redux/static/css/main.aa97e7ff.chunk.css.map",
     "static/js/2.92379be6.chunk.js.LICENSE.txt": "/Todo-App-with-Redux/static/js/2.92379be6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5a2c89cf.js",
     "static/js/2.92379be6.chunk.js",
-    "static/css/main.4b27e4ff.chunk.css",
-    "static/js/main.d894a168.chunk.js"
+    "static/css/main.aa97e7ff.chunk.css",
+    "static/js/main.d21021f0.chunk.js"
   ]
 }
